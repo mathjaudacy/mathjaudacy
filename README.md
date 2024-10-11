@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do Math
+## Bem-vindo(a) ao perfil do Math!
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/mathjaudacy">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathjaudacy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathjaudacy&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
@@ -14,7 +14,7 @@
  
 <br>
  
-## Social Media:
+## 🌐| Social Media:
  
 <div> 
   <a href="https://instagram.com/mathjaudacy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
