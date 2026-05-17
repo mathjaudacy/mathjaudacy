@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Math!
 
-<div align="center">
+<div>
 
 <img height="180em"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathjaudacy&show_icons=true&theme=synthwave"/>
